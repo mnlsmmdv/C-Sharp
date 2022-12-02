@@ -1,6 +1,6 @@
 ﻿/*
  * Name: Ahmed Affaan
- * Title: main.py
+ * Title: Program.cs
  * Folder: C-Sharp/HelloWorld
  * Date: 03/12/2022
  * Country: Republic of Maldives
