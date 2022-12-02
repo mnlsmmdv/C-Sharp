@@ -18,7 +18,7 @@ namespace HelloWorld{
     // Main class.
     class Program{
         // Main function.
-        static void Main(String[] args){
+        static void Main(string[] args){
             // Printing a message.
             Console.WriteLine("Hello World!\nHello Affaan.");
         }
