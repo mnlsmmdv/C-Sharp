@@ -21,6 +21,16 @@ namespace HelloWorld{
             // Printing messages.
             Console.Write("Hello World\n");
             Console.WriteLine("Hello Affaan!");
+
+            // This is a single line comment.
+
+            /*
+             * This
+             * is
+             * a
+             * multi-line
+             * comment
+             */
         }
     }
 }
