@@ -7,7 +7,7 @@
  * Code version: -
  * Description: -
  * Credits to: Bro Code
- * Credits to link: https://www.youtube.com/watch?v=6MAufQ6vGtI&list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT&index=14
+ * Credits to link: -
  * Note: Uncomment codes to execute and comment them when not in use.
  */
 
