@@ -46,9 +46,11 @@ namespace Variables{
             Console.WriteLine("Your exact age is: " + ExactAge + "." + " And your height is: " + ExactHeight + "cm.");
             */
 
+            /*
             // Displaying boolean value with a message.
             Console.WriteLine("Are you alive?: " + IsAlive);
             Console.WriteLine("Are you alive now?: " + IsNotAlive);
+            */
 
             // Reads user input characters.
             Console.ReadKey();
