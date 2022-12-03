@@ -21,6 +21,7 @@ namespace Variables{
         static void Main(string[] args){
             int x; // Variable declaration.
             x = 123; // Variable initialization.
+            int y = 1; // Variable declared and initialized.
 
             // Reads user input characters.
             Console.ReadKey();
