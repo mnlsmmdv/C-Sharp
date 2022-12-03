@@ -22,12 +22,16 @@ namespace Variables{
             int x; // Variable declaration.
             x = 123; // Variable initialization.
             int y = 321; // Variable declared and initialized.
+            int z = x + y; // Calculates sum of variables x and y.
 
             /*
             // Displaying variable values.
             Console.WriteLine("Variable x value: " + x + ".");
             Console.WriteLine("Variable y value: " + y + ".");
             */
+
+            // Displays sum of variables x and y.
+            Console.WriteLine("Sum of variables: " + z);
 
             // Reads user input characters.
             Console.ReadKey();
