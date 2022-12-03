@@ -38,9 +38,11 @@ namespace Variables{
             Console.WriteLine("Sum of variables: " + z);
             */
 
+            /*
             // Displaying variable value with a message.
             Console.WriteLine("Your age is: " + age + ".");
             Console.WriteLine("Your exact age is: " + ExactAge + "." + " And your height is: " + ExactHeight + "cm.");
+            */
 
             // Reads user input characters.
             Console.ReadKey();
