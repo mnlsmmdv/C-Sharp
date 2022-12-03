@@ -23,6 +23,7 @@ namespace Variables{
             x = 123; // Variable initialization.
             int y = 321; // Variable declared and initialized.
             int z = x + y; // Calculates sum of variables x and y.
+            int age = 23;
 
             /*
             // Displaying variable values.
@@ -34,6 +35,9 @@ namespace Variables{
             // Displays sum of variables x and y.
             Console.WriteLine("Sum of variables: " + z);
             */
+
+            // Displaying variable value with a message.
+            Console.WriteLine("Your age is: " + age + ".");
 
             // Reads user input characters.
             Console.ReadKey();
