@@ -19,8 +19,7 @@ namespace Constants{
     class Program{
         // Main function.
         static void Main(string[] args){
-            // Printing a message.
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }

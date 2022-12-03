@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Affaan\\Documents\\Git_Workspace\\C-Sharp\\Constants\\Constants\\Constants.csproj": {}
+    "C:\\Users\\Affaan\\Documents\\Git_Workspace\\C-Sharp\\Bro_Code\\Constants\\Constants\\Constants.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Affaan\\Documents\\Git_Workspace\\C-Sharp\\Constants\\Constants\\Constants.csproj": {
+    "C:\\Users\\Affaan\\Documents\\Git_Workspace\\C-Sharp\\Bro_Code\\Constants\\Constants\\Constants.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Affaan\\Documents\\Git_Workspace\\C-Sharp\\Constants\\Constants\\Constants.csproj",
+        "projectUniqueName": "C:\\Users\\Affaan\\Documents\\Git_Workspace\\C-Sharp\\Bro_Code\\Constants\\Constants\\Constants.csproj",
         "projectName": "Constants",
-        "projectPath": "C:\\Users\\Affaan\\Documents\\Git_Workspace\\C-Sharp\\Constants\\Constants\\Constants.csproj",
+        "projectPath": "C:\\Users\\Affaan\\Documents\\Git_Workspace\\C-Sharp\\Bro_Code\\Constants\\Constants\\Constants.csproj",
         "packagesPath": "C:\\Users\\Affaan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Affaan\\Documents\\Git_Workspace\\C-Sharp\\Constants\\Constants\\obj\\",
+        "outputPath": "C:\\Users\\Affaan\\Documents\\Git_Workspace\\C-Sharp\\Bro_Code\\Constants\\Constants\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Affaan\\AppData\\Roaming\\NuGet\\NuGet.Config",
