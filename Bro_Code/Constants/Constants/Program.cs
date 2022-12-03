@@ -19,7 +19,13 @@ namespace Constants{
     class Program{
         // Main function.
         static void Main(string[] args){
-            
+            const double PI_VALUE = 3.14159; // Constant variable for the value of pi.
+
+            // Displaying value of Pi.
+            Console.WriteLine("Value of pi: " + PI_VALUE);
+
+            // Reads user input characters.
+            Console.ReadKey();
         }
     }
 }
