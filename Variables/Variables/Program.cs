@@ -35,7 +35,7 @@ namespace Variables{
             Console.WriteLine("Variable y value: " + y + ".");
 
             // Displays sum of variables x and y.
-            Console.WriteLine("Sum of variables: " + z);
+            Console.WriteLine("Sum of x and y: " + z);
 
             // Displaying variable value with a message.
             Console.WriteLine("Your age is: " + age + ".");
