@@ -23,9 +23,11 @@ namespace Variables{
             x = 123; // Variable initialization.
             int y = 321; // Variable declared and initialized.
 
+            /*
             // Displaying variable values.
             Console.WriteLine("Variable x value: " + x + ".");
             Console.WriteLine("Variable y value: " + y + ".");
+            */
 
             // Reads user input characters.
             Console.ReadKey();
