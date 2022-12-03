@@ -25,6 +25,7 @@ namespace Variables{
             int z = x + y; // Calculates sum of variables x and y.
             int age = 23;
             double ExactAge = 23.9; // Decimal number variable.
+            double ExactHeight = 300.5; // Decimal number variable for height.
 
             /*
             // Displaying variable values.
@@ -39,7 +40,7 @@ namespace Variables{
 
             // Displaying variable value with a message.
             Console.WriteLine("Your age is: " + age + ".");
-            Console.WriteLine("Your exact age is: " + ExactAge + ".");
+            Console.WriteLine("Your exact age is: " + ExactAge + "." + " And your height is: " + ExactHeight);
 
             // Reads user input characters.
             Console.ReadKey();
