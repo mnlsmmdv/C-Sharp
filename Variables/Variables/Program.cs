@@ -26,6 +26,8 @@ namespace Variables{
             int age = 23; // Integer variable for age.
             double ExactAge = 23.9; // Decimal number variable for age.
             double ExactHeight = 300.5; // Decimal number variable for height.
+            bool IsAlive = true; // Boolean value for alive status.
+            bool IsNotAlive = false; // Boolean value for not alive status.
 
             /*
             // Displaying variable values.
@@ -43,6 +45,10 @@ namespace Variables{
             Console.WriteLine("Your age is: " + age + ".");
             Console.WriteLine("Your exact age is: " + ExactAge + "." + " And your height is: " + ExactHeight + "cm.");
             */
+
+            // Displaying boolean value with a message.
+            Console.WriteLine("Are you alive?: " + IsAlive);
+            Console.WriteLine("Are you alive now?: " + IsNotAlive);
 
             // Reads user input characters.
             Console.ReadKey();
