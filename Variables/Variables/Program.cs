@@ -29,6 +29,8 @@ namespace Variables{
             bool IsAlive = true; // Boolean value for alive status.
             bool IsNotAlive = false; // Boolean value for not alive status.
             char symbol = '@'; // Character variable for single character.
+            String Name = "mnlsmmdv";
+            String UserName = symbol + Name;
 
             // Displaying variable values.
             Console.WriteLine("Variable x value: " + x + ".");
@@ -47,6 +49,9 @@ namespace Variables{
 
             // Displaying single character value.
             Console.WriteLine("Your symbol is: " + symbol);
+
+            // Displaying string value with a single character.
+            Console.WriteLine("Your username is: " + UserName);
 
             // Reads user input characters.
             Console.ReadKey();
