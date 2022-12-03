@@ -24,7 +24,7 @@ namespace Variables{
             int y = 321; // Variable declared and initialized.
             int z = x + y; // Calculates sum of variables x and y.
             int age = 23;
-            double ExactAge = 23.9; // Decimal number variable.
+            double ExactAge = 23.9; // Decimal number variable for age.
             double ExactHeight = 300.5; // Decimal number variable for height.
 
             /*
