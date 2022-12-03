@@ -30,28 +30,20 @@ namespace Variables{
             bool IsNotAlive = false; // Boolean value for not alive status.
             char symbol = '@';
 
-            /*
             // Displaying variable values.
             Console.WriteLine("Variable x value: " + x + ".");
             Console.WriteLine("Variable y value: " + y + ".");
-            */
 
-            /*
             // Displays sum of variables x and y.
             Console.WriteLine("Sum of variables: " + z);
-            */
 
-            /*
             // Displaying variable value with a message.
             Console.WriteLine("Your age is: " + age + ".");
             Console.WriteLine("Your exact age is: " + ExactAge + "." + " And your height is: " + ExactHeight + "cm.");
-            */
 
-            /*
             // Displaying boolean value with a message.
             Console.WriteLine("Are you alive?: " + IsAlive);
             Console.WriteLine("Are you alive now?: " + IsNotAlive);
-            */
 
             // Displaying single character value.
             Console.WriteLine("Your symbol is: " + symbol);
