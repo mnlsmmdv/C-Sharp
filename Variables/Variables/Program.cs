@@ -30,8 +30,10 @@ namespace Variables{
             Console.WriteLine("Variable y value: " + y + ".");
             */
 
+            /*
             // Displays sum of variables x and y.
             Console.WriteLine("Sum of variables: " + z);
+            */
 
             // Reads user input characters.
             Console.ReadKey();
