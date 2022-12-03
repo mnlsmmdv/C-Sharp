@@ -28,7 +28,7 @@ namespace Variables{
             double ExactHeight = 300.5; // Decimal number variable for height.
             bool IsAlive = true; // Boolean value for alive status.
             bool IsNotAlive = false; // Boolean value for not alive status.
-            char symbol = '@';
+            char symbol = '@'; // Character variable for single character.
 
             // Displaying variable values.
             Console.WriteLine("Variable x value: " + x + ".");
