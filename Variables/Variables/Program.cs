@@ -29,8 +29,8 @@ namespace Variables{
             bool IsAlive = true; // Boolean value for alive status.
             bool IsNotAlive = false; // Boolean value for not alive status.
             char symbol = '@'; // Character variable for single character.
-            String Name = "mnlsmmdv";
-            String UserName = symbol + Name;
+            String Name = "mnlsmmdv"; // String variable for username's name.
+            String UserName = symbol + Name; // Adding together String and a Char value.
 
             // Displaying variable values.
             Console.WriteLine("Variable x value: " + x + ".");
