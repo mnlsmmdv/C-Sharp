@@ -19,7 +19,11 @@ namespace Variables{
     class Program{
         // Main function.
         static void Main(string[] args){
-            
+            int x; // Variable declaration.
+            x = 123; // Variable initialization.
+
+            // Reads user input characters.
+            Console.ReadKey();
         }
     }
 }
